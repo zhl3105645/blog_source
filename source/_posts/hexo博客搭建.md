@@ -12,8 +12,8 @@ categories:
 ### 搭建流程
 
 - 使用Github Page页和hexo搭建个人博客
-
 - hexo主题：[iissnan/hexo-theme-next: Elegant theme for Hexo. (github.com)](https://github.com/iissnan/hexo-theme-next)
+- 使用 github + typora + picgo实现图床
 
 ### 依赖
 
